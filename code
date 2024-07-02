@@ -1,0 +1,148 @@
+
+    <h2>All the more reasons to get your dream home interiors now</h2>
+    <div class="container">
+        <div class="info-box">
+            <img src="images/power-icon.png" alt="Power Icon" class="icon">
+            <div class="text-content">
+                <h3>Free online consultation</h3>
+                <p>Talk to our designers online and start planning your interiors from the comfort of your home.</p>
+            </div>
+        </div>
+        
+        <div class="info-box">
+            <img src="images/rocket-icon.png" alt="Man with a rocket" class="icon">
+            <div class="text-content">
+                <h3>Pay just 5% to book</h3>
+                <p>We’ve dropped our booking fees. Now book your projects by paying just 5% instead of 10%.</p>
+            </div> 
+        </div>
+        
+        <div class="info-box">
+            <img src="images/power-icon (1).png" alt="Power Icon" class="icon">
+            <div class="text-content">
+                <h3>Hassle-free cancellation</h3>
+                <p>Get 100% refund on cancellations done within 15 days of booking. Valid till 30th June, 2020.</p>
+            </div>
+        </div> 
+    </div>
+    <div class="button-container">
+        <button class="contact-button">Contact Now Online</button>
+    </div>
+
+    <!--About-->
+    <div class="container1">
+        <div class="text-content1">
+            <h3 id="sub-heading">About Us</h3>
+            <p class="text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Praesentium laborum eligendi mollitia blanditiis, optio eos necessitatibus voluptatum nihil incidunt maxime alias sunt officia distinctio modi at! Eveniet, natus eos. Sit tenetur ab laboriosam reprehenderit velit aut nostrum provident. Mollitia iste modi nihil consectetur suscipit sed excepturi sint beatae rem numquam pariatur temporibus est distin</p>
+            <div class="button-container01">
+                <button class="contact-button01">LEARN MORE</button>
+            </div>
+        </div>
+        <div class="image-content1">
+            <img src="images/furniture1.jpg" alt="About Us Image">
+        </div>
+    </div>
+    <!--Another section -->
+    <div class="full-length-container">
+        <div class="image-container-box">
+            <img src="images/living-room.jpg" alt="Professional Services Image" class="styled-image">
+        </div>
+        <div class="text-container-box">
+            <h1>OUR PROFESSIONAL SERVICES</h1>
+            <h2>We Will Create Modern And First Class Interior.</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, laboriosam totam. Beatae autem et sapiente nostrum libero aut accusamus, quis recusandae, asperiores blanditiis magnam deleniti explicabo fugiat numquam nobis? Architecto harum excepturi nemo similique alias fugit sunt soluta eos. Nostrum exercitationem doloribus expedita, fugit eum labore suscipit necessitatibus provident in!</p>
+            <button class="learn-more-btn">Learn More</button>
+        </div>
+    </div>
+<!--Directiors--> 
+<div class="main-heading">
+    <h1>CREATIVE DIRECTORS</h1>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</div>
+
+<div class="team-container">
+    <div class="team-member">
+        <img src="images/women1.jpg" alt="Team Member 1">
+        <div class="team-member-info">
+            <h3>John Doe</h3>
+            <p>Graphic Designer</p>
+        </div>
+    </div>
+    <div class="team-member">
+        <img src="images/women2.jpg" alt="Team Member 2">
+        <div class="team-member-info">
+            <h3>Jane Smith</h3>
+            <p>UX/UI Designer</p>
+        </div>
+    </div>
+    <div class="team-member">
+        <img src="images/women3.jpg" alt="Team Member 3">
+        <div class="team-member-info">
+            <h3>Mike Johnson</h3>
+            <p>Photographer</p>
+        </div>
+    </div>
+</div>
+
+<!--Projects-->
+<div class="wrapper">
+<div class="content-box">
+    <h1>Our Gallery</h1>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+    <div class="image-grid">
+        <div class="image-box">
+            <img src="images/project1.jpg" alt="Image 1">
+        </div>
+        <div class="image-box">
+            <img src="images/project2.jpg" alt="Image 2">
+        </div>
+        <div class="image-box">
+            <img src="images/project3.jpg" alt="Image 3">
+        </div>
+        <div class="image-box">
+            <img src="images/project4.jpg" alt="Image 4">
+        </div>
+        <div class="image-box">
+            <img src="images/project5.jpg" alt="Image 5">
+        </div>
+        <div class="image-box">
+            <img src="images/project6.webp" alt="Image 6">
+        </div>
+    </div>
+</div>
+</div>
+<!--Footer-->
+
+<footer>
+    <div class="footer-container">
+        <div class="footer-section">
+            <h3>INTERIOR DESIGN</h3>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+            <div class="social-icons">
+                <a href="#"><img src="images/fb.webp" alt="Facebook"></a>
+                <a href="#"><img src="images/insta.webp" alt="Instagram"></a>
+                <a href="#"><img src="images/youtube.webp" alt="YouTube"></a>
+                <a href="#"><img src="images/twitter.webp" alt="Twitter"></a>
+                <a href="#"><img src="images/google.webp" alt="Google"></a>
+            </div>
+        </div>
+        <div class="footer-section">
+            <h3>Projects</h3>
+            <p>WHMCS-bridge</p>
+            <p>Search Domain</p>
+            <p>My Account</p>
+            <p>Shopping Cart</p>
+            <p>Our Shop</p>
+        </div>
+        <div class="footer-section">
+            <h3>Contact Us</h3>
+            <p>Address: C-308 New Delhi</p>
+            <p>Phone: +91 9876543210</p>
+            <p>Email: info@colorlib.com</p>
+        </div>
+        <div class="footer-section">
+            <h3>Newsletter</h3>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+        </div>
+    </div>
+</footer>
